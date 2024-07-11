@@ -12,6 +12,8 @@ def multi(a, b):
 def minu(a, b):
     return a - b
 
+def divi(a,b):
+    return a / b
 
 if __name__ == '__main__':
     print("hello world")
