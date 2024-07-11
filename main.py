@@ -9,6 +9,10 @@ def multi(a, b):
     return a * b
 
 
+def minu(a, b):
+    return a - b
+
+
 if __name__ == '__main__':
     print("hello world")
     print(add(5, 7))
